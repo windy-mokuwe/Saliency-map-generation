@@ -1,5 +1,5 @@
 # Saliency-map-generation
-This provides the implementation of the Bayesian saliency method described in our IEEE WCCI 2020 publication "Black-box Saliency Map Generation using Bayesian Optimisation"
+This provides the implementation of the Bayesian saliency method described in our IJCNN 2020 publication "Black-box Saliency Map Generation using Bayesian Optimisation"
 
 
 If you found this work useful, please do consider citing us as:
